@@ -155,6 +155,13 @@
         "PLUM_3": "#e5e5e5",
         "PLUM_9": "#e5e5e5"
  },
+"background": {
+    "url": "https://github.com/wibucter/AMOLED-anime-theme/raw/refs/heads/main/IMG_20260723_114725.png",
+    "blur": 0.5,
+    "alpha": 0.5,
+    "size": "cover",
+    "position": "center"
+},
   "plus": {
     "version": "0",
     "iconpack": "rosiecord-plumpy"
